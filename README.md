@@ -1,2 +1,6 @@
 # Delta-demo
 This is a demo for git and github class.
+ # teacher
+ "Harsh Rai"
+ # student
+ Ramu
